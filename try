@@ -1,3 +1,4 @@
+Connection con;
 // error processing code
 // error processing code
 Class.forName(driverClass);
