@@ -1,3 +1,4 @@
+} finally {
 test.init();
 public class OracleJdbcTest
 Connection con;
