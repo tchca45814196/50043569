@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 } catch (IOException e) {
 OracleJdbcTest test = new OracleJdbcTest();
 while (rs.next())
