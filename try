@@ -1,3 +1,4 @@
+} catch (IOException e) {
 OracleJdbcTest test = new OracleJdbcTest();
 while (rs.next())
 String url = props.getProperty("db.url");
